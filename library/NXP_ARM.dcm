@@ -1,0 +1,123 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LPC131*FBD48
+D 32-bit ARM Cortex-M3 microcontroller; up to 64 kB flash; up to 12 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC131*FBD64
+D 32-bit ARM Cortex-M3 microcontroller; up to 64 kB flash; up to 12 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC131*FHN33
+D 32-bit ARM Cortex-M3 microcontroller; up to 64 kB flash; up to 12 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1315FBD48
+D 32-bit ARM Cortex-M3 microcontroller; 32 kB flash; 8 kB SRAM; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1315FHN33
+D 32-bit ARM Cortex-M3 microcontroller; 32 kB flash; 8 kB SRAM; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1316FBD48
+D 32-bit ARM Cortex-M3 microcontroller; 48 kB flash; 8 kB SRAM; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1316FHN33
+D 32-bit ARM Cortex-M3 microcontroller; 48 kB flash; 8 kB SRAM; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1317FBD48
+D 32-bit ARM Cortex-M3 microcontroller; 64 kB flash; 10 kB SRAM; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1317FBD64
+D 32-bit ARM Cortex-M3 microcontroller; 64 kB flash; 10 kB SRAM; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1317FHN33
+D 32-bit ARM Cortex-M3 microcontroller; 64 kB flash; 10 kB SRAM; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC134*FBD48
+D 32-bit ARM Cortex-M3 microcontroller; up to 64 kB flash; up to 12 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC134*FBD64
+D 32-bit ARM Cortex-M3 microcontroller; up to 64 kB flash; up to 12 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC134*FHN33
+D 32-bit ARM Cortex-M3 microcontroller; up to 64 kB flash; up to 12 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1345FBD48
+D 32-bit ARM Cortex-M3 microcontroller; 32 kB flash; 10 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1345FHN33
+D 32-bit ARM Cortex-M3 microcontroller; 32 kB flash; 10 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1346FBD48
+D 32-bit ARM Cortex-M3 microcontroller; 48 kB flash; 10 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1346FHN33
+D 32-bit ARM Cortex-M3 microcontroller; 48 kB flash; 10 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1347FBD48
+D 32-bit ARM Cortex-M3 microcontroller; 64 kB flash; 12 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1347FBD64
+D 32-bit ARM Cortex-M3 microcontroller; 64 kB flash; 12 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+$CMP LPC1347FHN33
+D 32-bit ARM Cortex-M3 microcontroller; 64 kB flash; 12 kB SRAM; USB device; USART; EEPROM
+K NXP ARM 32bit Cortex-M3 Microcontroller
+F http://www.jp.nxp.com/documents/data_sheet/LPC1315_16_17_45_46_47.pdf
+$ENDCMP
+#
+#End Doc Library

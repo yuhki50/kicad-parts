@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TWE-001L-*
+D IEEE802.15.4/ZigBee 32bit Microcontroller Module
+K IEEE802.15.4 ZigBee
+F http://tocos-wireless.com/files/datasheet/TWD-PDS-TWE001L-JP-1.30.pdf
+$ENDCMP
+#
+#End Doc Library

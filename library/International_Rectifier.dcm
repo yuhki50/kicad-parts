@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRLML6344TR
+D HEXFET Power MOSFET
+K NMOS FET
+F http://www.irf.com/product-info/datasheets/data/irlml6344pbf.pdf
+$ENDCMP
+#
+#End Doc Library

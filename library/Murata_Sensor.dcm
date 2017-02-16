@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZPA2326-0311A-R
+D MEMS pressure sensor of the capacitive type
+K Pressure Sensor
+F http://www.murata.com/ja-jp/products/productdetail?partno=ZPA2326-0311A-R
+$ENDCMP
+#
+#End Doc Library

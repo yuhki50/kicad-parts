@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KMR2*G
+D KMR2 Series Microminiature SMT Top Actuated Switch
+K KMR2 Switch
+F http://www.ck-components.com/14414/kmr2_9aug12.pdf
+$ENDCMP
+#
+$CMP KMR2*NG
+D KMR2 Series Microminiature SMT Top Actuated Switch
+K KMR2 Switch
+F http://www.ck-components.com/14414/kmr2_9aug12.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MX1A-*1DN
+D MX Series Keyswitch
+K Switch
+$ENDCMP
+#
+$CMP MX1A-*1DW
+D MX Series Keyswitch
+K Switch
+$ENDCMP
+#
+$CMP MX1A-*1GN
+D MX Series Keyswitch
+K Switch
+$ENDCMP
+#
+$CMP MX1A-*1GW
+D MX Series Keyswitch
+K Switch
+$ENDCMP
+#
+$CMP MX1A-*1NN
+D MX Series Keyswitch
+K Switch
+$ENDCMP
+#
+$CMP MX1A-*1NW
+D MX Series Keyswitch
+K Switch
+$ENDCMP
+#
+#End Doc Library

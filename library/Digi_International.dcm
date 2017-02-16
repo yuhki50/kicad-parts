@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XBee_PRO_S2
+D ZigBee RF Modules
+K XBee ZigBee Wireless 2.4GHz RF
+F http://ftp1.digi.com/support/documentation/90000976_W.pdf
+$ENDCMP
+#
+$CMP XBee_PRO_S2B
+D ZigBee RF Modules
+K XBee ZigBee Wireless 2.4GHz RF
+F http://ftp1.digi.com/support/documentation/90000976_W.pdf
+$ENDCMP
+#
+$CMP XBee_S2
+D ZigBee RF Modules
+K XBee ZigBee Wireless 2.4GHz RF
+F http://ftp1.digi.com/support/documentation/90000976_W.pdf
+$ENDCMP
+#
+$CMP XBee_S6
+D Wi-Fi RF Modules
+K XBee Wi-Fi Wireless 2.4GHz RF
+F http://ftp1.digi.com/support/documentation/90002180_L.pdf
+$ENDCMP
+#
+$CMP XBee_S6B
+D Wi-Fi RF Modules
+K XBee Wi-Fi Wireless 2.4GHz RF
+F http://ftp1.digi.com/support/documentation/90002180_L.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSOP754*
+D IR Receiver Modules for Remote Control Systems
+K Vishay IR Receiver
+F http://www.vishay.com/docs/82494/tsop752.pdf
+$ENDCMP
+#
+$CMP VSMB2000X01
+D High Speed Infrared Emitting Diodes, 940 nm, GaAlAs, DH
+K Vishay IR LED TOP
+F http://www.vishay.com/docs/81930/vsmb2000.pdf
+$ENDCMP
+#
+$CMP VSMB2948SL
+D High Speed Infrared Emitting Diodes, 940 nm, GaAlAs, MQW
+K Vishay IR LED SIDE
+F http://www.vishay.com/docs/83498/vsmb2948sl.pdf
+$ENDCMP
+#
+#End Doc Library

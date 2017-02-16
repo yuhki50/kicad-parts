@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0ZCF*
+D Fuse SMD 2920
+K FUSE 2920
+F http://belfuse.com/pdfs/0ZCF.pdf
+$ENDCMP
+#
+$CMP 0ZCH*
+D Fuse SMD 1210
+K FUSE 1210
+F http://belfuse.com/pdfs/0ZCH.pdf
+$ENDCMP
+#
+$CMP 0ZCJ*
+D Fuse SMD 1206
+K FUSE 1206
+F http://belfuse.com/pdfs/0ZCJ.pdf
+$ENDCMP
+#
+#End Doc Library

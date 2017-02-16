@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PJ-037A
+D DC Power Jack
+K DC power jack connector
+F http://www.cui.com/product/resource/pj-037a.pdf
+$ENDCMP
+#
+$CMP PJ-044AH
+D DC Power Jack
+K DC power jack connector
+F http://www.cui.com/product/resource/pj-044ah.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9306GM
+D Dual bidirectional I2C-bus and SMBus voltage-level translator
+K NXP Translator I2C
+F http://www.nxp.com/documents/data_sheet/PCA9306.pdf
+$ENDCMP
+#
+$CMP PCA9685BS
+D 16-channel, 12-bit PWM Fm+ I2C-bus LED controller
+K NXP 16ch PWM I2C
+F http://www.nxp.com/documents/data_sheet/PCA9685.pdf
+$ENDCMP
+#
+$CMP PCA9685PW
+D 16-channel, 12-bit PWM Fm+ I2C-bus LED controller
+K NXP 16ch PWM I2C
+F http://www.nxp.com/documents/data_sheet/PCA9685.pdf
+$ENDCMP
+#
+$CMP PRTR5V0U2X
+D Ultra low capacitance double rail-to-rail ESD protection diode
+K NXP Diode Protection ESD
+F http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf
+$ENDCMP
+#
+#End Doc Library

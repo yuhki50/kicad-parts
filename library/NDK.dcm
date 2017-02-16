@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NX3225GA
+D A surface-mount compact crystal unit suitable for automotive.
+K Crystal Resonator
+F http://www.ndk.com/images/products/catalog/c_NX3225GA-STD-CRA-1_e.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# HO-3-S
+#
+DEF HO-3-S H 0 0 N N 1 F N
+F0 "H" 0 150 50 H V C BNN
+F1 "HO-3-S" 0 -200 50 H V C BNN
+F2 "MAC8:HO-3-S" 0 -300 50 H I C BNN
+F3 "" 0 -50 50 H V C CNN
+DRAW
+S -100 100 100 -100 0 1 0 F
+X ~ 1 -200 0 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

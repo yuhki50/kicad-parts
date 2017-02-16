@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BD*HC5WEFJ
+D 1.5A Variable / Fixed Output LDO Regulators
+K ROHM Regulators
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bdxxhc5wefj-e.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QS5K2
+D 2.5V Drive Nch+Nch MOSFET
+K NMOS DUAL FET
+F http://rohmfs.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/qs5k2.pdf
+$ENDCMP
+#
+#End Doc Library

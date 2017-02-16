@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCR2EE*
+D Low Drop-Out Regulator with Fast Load Transient Response
+K Toshiba Regulators
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=13794&prodName=TCR2EF10
+$ENDCMP
+#
+$CMP TCR2EF*
+D Low Drop-Out Regulator with Fast Load Transient Response
+K Toshiba Regulators
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=13794&prodName=TCR2EF10
+$ENDCMP
+#
+$CMP TCR2LE*
+D Ultra low quiescent current low Drop-Out Regulator in ultra small package
+K Toshiba Regulators
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=28807&prodName=TCR2LE10
+$ENDCMP
+#
+$CMP TCR2LF*
+D Ultra low quiescent current low Drop-Out Regulator in ultra small package
+K Toshiba Regulators
+F http://toshiba.semicon-storage.com/info/docget.jsp?did=28807&prodName=TCR2LE10
+$ENDCMP
+#
+#End Doc Library

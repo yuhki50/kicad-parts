@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NPTH
+D Non-plated through hole
+K NPTH
+$ENDCMP
+#
+$CMP TH_ROUND_PAD
+D Through hole with round pad
+K TH ROUND
+$ENDCMP
+#
+$CMP TH_SQUARE_PAD
+D Through hole with square pad
+K TH SQUARE
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HO-3-S
+D Surface mount wire holder
+K MAC8 WireHolder
+F http://www.mac8sdk.co.jp/mac8/parts/HHH/ho.html
+$ENDCMP
+#
+#End Doc Library

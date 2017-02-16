@@ -1,0 +1,83 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PC8N
+D LED RGBW
+K LED RGBW
+$ENDCMP
+#
+$CMP PC8N-10LTE
+D LED RGBW 10W
+K LED RGBW 10W
+F http://www.prolightopto.com/upload/DS-0084_10W_PC8N-10LTx-C_v1.5.pdf
+$ENDCMP
+#
+$CMP PC8N-5L4E
+D LED RGBW 5W
+K LED RGBW 5W
+F http://www.prolightopto.com/upload/DS-0082_5W_PC8N-5LTx-C_v1.9.pdf
+$ENDCMP
+#
+$CMP PC8N-5LTE
+D LED RGBW 5W
+K LED RGBW 5W
+F http://www.prolightopto.com/upload/DS-0083_5W_PC8N-5L4E-C_v1.6.pdf
+$ENDCMP
+#
+$CMP PF6N
+D LED RGB
+K LED RGB
+$ENDCMP
+#
+$CMP PF6N-3LFE
+D LED RGB 3W
+K LED RGB 3W
+F http://www.prolightopto.com/upload/3W_PF6N-3LFx_v4.3.pdf
+$ENDCMP
+#
+$CMP PF6N-9LFE
+D LED RGB 9W
+K LED RGB 9W
+F http://www.prolightopto.com/upload/DS-0104_9W_PF6N-9LFE_v2.5.pdf
+$ENDCMP
+#
+$CMP PM6N
+D LED RGB
+K LED RGB
+$ENDCMP
+#
+$CMP PM6N-1LFE
+D LED RGB 1W
+K LED RGB 1W
+F http://www.prolightopto.com/upload/DS-0102_1W_PM6B-1LFx_v2.2.pdf
+$ENDCMP
+#
+$CMP PM6N-3LFE
+D LED RGB 3W
+K LED RGB 3W
+F http://www.prolightopto.com/upload/DS-0103_3W_PM6B-3LFx_v2.2.pdf
+$ENDCMP
+#
+$CMP PP6N
+D LED RGB
+K LED RGB
+$ENDCMP
+#
+$CMP PP6N-1LFE
+D LED RGB 0.2W
+K LED RGB 0.2W
+F http://www.prolightopto.com/upload/DS-0353_0.2W_PP6N-TFFE-D60_v1.3.pdf
+$ENDCMP
+#
+$CMP PP6N-FFFE
+D LED RGB 0.5W
+K LED RGB 0.5W
+F http://www.prolightopto.com/upload/DS-0354_0.5W_PP6N-FFFE-D60_v1.3.pdf
+$ENDCMP
+#
+$CMP PP6N-TFFE
+D LED RGB 1W
+K LED RGB 1W
+F http://www.prolightopto.com/upload/DS-0217_1W_PP6N-1LFE-P_v1.4.pdf
+$ENDCMP
+#
+#End Doc Library

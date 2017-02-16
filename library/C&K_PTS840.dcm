@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTS840-*
+D PTS840 Series Microminiature SMT Top Actuated Switch
+K PTS840 Switch
+F http://www.ck-components.com/80185/pts840_5aug13.pdf
+$ENDCMP
+#
+$CMP PTS840-ESD*
+D PTS840 Series Microminiature SMT Top Actuated Switch
+K PTS840 Switch
+F http://www.ck-components.com/80185/pts840_5aug13.pdf
+$ENDCMP
+#
+$CMP PTS840-ESDG*P-SMTR-LFS
+D PTS840 Series Microminiature SMT Top Actuated Switch
+K PTS840 Switch
+F http://www.ck-components.com/80185/pts840_5aug13.pdf
+$ENDCMP
+#
+$CMP PTS840-ESDP*-SMTR-LFS
+D PTS840 Series Microminiature SMT Top Actuated Switch
+K PTS840 Switch
+F http://www.ck-components.com/80185/pts840_5aug13.pdf
+$ENDCMP
+#
+$CMP PTS840-G*-SMTR-LFS
+D PTS840 Series Microminiature SMT Top Actuated Switch
+K PTS840 Switch
+F http://www.ck-components.com/80185/pts840_5aug13.pdf
+$ENDCMP
+#
+$CMP PTS840-G*P-SMTR-LFS
+D PTS840 Series Microminiature SMT Top Actuated Switch
+K PTS840 Switch
+F http://www.ck-components.com/80185/pts840_5aug13.pdf
+$ENDCMP
+#
+$CMP PTS840-P*-SMTR-LFS
+D PTS840 Series Microminiature SMT Top Actuated Switch
+K PTS840 Switch
+F http://www.ck-components.com/80185/pts840_5aug13.pdf
+$ENDCMP
+#
+#End Doc Library

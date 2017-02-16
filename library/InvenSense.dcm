@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPU-6500
+D Six-Axis (Gyro + Accelerometer) MEMS MotionTracking Devices
+K Six-Axis Gyro Accelerometer
+F http://43zrtwysvxb2gf29r5o0athu.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/MPU-6500-Datasheet2.pdf
+$ENDCMP
+#
+$CMP MPU-6555
+D Six-Axis (Gyro + Accelerometer) MEMS MotionTracking Devices
+K Six-Axis Gyro Accelerometer
+F http://43zrtwysvxb2gf29r5o0athu.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/MPU-6555-Datasheet1.pdf
+$ENDCMP
+#
+$CMP MPU-65xx
+D Six-Axis (Gyro + Accelerometer) MEMS MotionTracking Devices
+K Six-Axis Gyro Accelerometer
+$ENDCMP
+#
+$CMP MPU-9250
+D Nine-Axis (Gyro + Accelerometer + Compass) MEMS MotionTracking Device
+K Nine-Axis Gyro Accelerometer Compass
+F http://43zrtwysvxb2gf29r5o0athu.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/MPU-9250-Datasheet.pdf
+$ENDCMP
+#
+$CMP MPU-92xx
+D Nine-Axis (Gyro + Accelerometer + Compass) MEMS MotionTracking Device
+K Nine-Axis Gyro Accelerometer Compass
+$ENDCMP
+#
+#End Doc Library

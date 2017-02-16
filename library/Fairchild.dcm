@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDS6375
+D P-Channel 2.5V Specified PowerTrench
+K PMOS FET
+F https://www.fairchildsemi.com/datasheets/FD/FDS6375.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT60A
+D Silicon Schottky Diode
+K DIODE SCHOTTKY
+F http://www.infineon.com/dgdl/bat60aseries.pdf?folderId=db3a304313d846880113def5812204a1&fileId=db3a304313d846880113def70c9304a9
+$ENDCMP
+#
+#End Doc Library

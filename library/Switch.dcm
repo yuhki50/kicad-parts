@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Switch
+K Switch
+$ENDCMP
+#
+$CMP Switch2
+K Switch
+$ENDCMP
+#
+#End Doc Library

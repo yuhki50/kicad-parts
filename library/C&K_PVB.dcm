@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PVB4_EE_300_NS_LFS
+D Low Profile SMT Push Switches
+K PVB4 Switch
+F http://www.ck-components.com/77768/pvb_25june13.pdf
+$ENDCMP
+#
+$CMP PVB4_OA_300_NS_LFS
+D Low Profile SMT Push Switches
+K PVB4 Switch
+F http://www.ck-components.com/77768/pvb_25june13.pdf
+$ENDCMP
+#
+$CMP PVB6_EE_300_NS_LFS
+D Low Profile SMT Push Switches
+K PVB6 Switch
+F http://www.ck-components.com/77768/pvb_25june13.pdf
+$ENDCMP
+#
+$CMP PVB6_OA_300_NS_LFS
+D Low Profile SMT Push Switches
+K PVB6 Switch
+F http://www.ck-components.com/77768/pvb_25june13.pdf
+$ENDCMP
+#
+$CMP PVB6_THT_EE_300_NS_LFS
+D Low Profile SMT Push Switches
+K PVB6 Switch
+F http://www.ck-components.com/77768/pvb_25june13.pdf
+$ENDCMP
+#
+$CMP PVB6_THT_OA_300_NS_LFS
+D Low Profile SMT Push Switches
+K PVB6 Switch
+F http://www.ck-components.com/77768/pvb_25june13.pdf
+$ENDCMP
+#
+#End Doc Library

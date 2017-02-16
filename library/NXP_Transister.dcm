@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC856
+D PNP general purpose transistors
+K pnp transistor
+F http://www.nxp.com/documents/data_sheet/BC856_BC857_BC858.pdf
+$ENDCMP
+#
+#End Doc Library
