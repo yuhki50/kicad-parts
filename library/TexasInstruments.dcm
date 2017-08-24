@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV2667
+D Piezo Haptic Driver with Boost, Digital Front End, and Internal Waveform Memory
+K Piezo Haptic Driver
+F http://www.tij.co.jp/jp/lit/ds/symlink/drv2667.pdf
+$ENDCMP
+#
+#End Doc Library
