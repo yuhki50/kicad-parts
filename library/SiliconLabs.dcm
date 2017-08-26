@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP2104
+D Single chip USB-TO-UART bridge
+K USB UART bridge
+F https://www.silabs.com/documents/public/data-sheets/cp2104.pdf
+$ENDCMP
+#
+#End Doc Library
