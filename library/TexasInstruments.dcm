@@ -6,4 +6,10 @@ K Piezo Haptic Driver
 F http://www.tij.co.jp/jp/lit/ds/symlink/drv2667.pdf
 $ENDCMP
 #
+$CMP TPS63070
+D 2-V to 16-V Buck-Boost Converter With 3.6-A Switch Current
+K Buck-Boost Converter
+F http://www.ti.com/lit/ds/symlink/tps63070.pdf
+$ENDCMP
+#
 #End Doc Library
