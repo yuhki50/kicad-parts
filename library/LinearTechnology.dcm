@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC1733
+D Monolithic Linear Lithium-Ion Battery Charger with Thermal Regulation
+K Lithium-Ion Battery Charger
+F http://cds.linear.com/docs/jp/datasheet/j1733f.pdf
+$ENDCMP
+#
+#End Doc Library
