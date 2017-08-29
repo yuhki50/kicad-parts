@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002DW
+D 60V Vds, 0.23A Id, 7.5Ohm Rds, Dual N-Channel MOSFET, SOT363
+K Dual N-Channel MOSFET Logic Level
+F https://www.diodes.com/assets/Datasheets/ds30120.pdf
+$ENDCMP
+#
+#End Doc Library
