@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AON7407
+D P-Channel Power MOSFET, Vds -20V, Rdson 9.5mOhm, Id -40A
+K Power MOSFET P-MOS
+F http://aosmd.com/res/data_sheets/AON7407.pdf
+$ENDCMP
+#
+#End Doc Library
