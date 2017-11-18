@@ -1,11 +1,5 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP MDBT42Q
-D Bluetooth4.2(BLE) module designed based on Nordic nRF52832 SoC
-K Bluetooth BLE
-F http://www.raytac.com/download/MDBT42/MDBT42Q%20&%20MDBT42Q-P-Version%20D.pdf
-$ENDCMP
-#
 $CMP SN10-2X
 D Combo module integrated with SIGFOX wireless technology, BLE, WiFi and GPS technologies.
 K Sigfox WiFi GPS Bluetooth BLE
